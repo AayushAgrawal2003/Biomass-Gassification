@@ -1,0 +1,6 @@
+ ! =================================== !
+ ! PaSR model for biomass gasification !
+ !     in a fluidized bed reactor      !
+ ! =================================== !
+ Using mechanism mymech.mech
+ tstep =   5.0000000000000001E-003

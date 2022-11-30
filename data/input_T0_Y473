@@ -1,0 +1,41 @@
+# INITIALIZATION PARAMETERS ########################
+
+Type of simulation :	PFR
+
+! --- Time variables --- !
+Maximum time :		5
+
+! --- IO --- !
+Output file :			results
+Output period :			1e-3
+Particle file to write :	part
+!Particle file to read :  	partRS
+
+
+! --- Initial parameters --- !
+Init temperature :	1073
+Number of particles :	1
+Isothermal case : 1
+
+Init Z :	0.0
+Init N2 :	0.00000
+Init H2 :	0.00018
+Init CH4 :	0.00711
+Init H2O :	0.20796
+Init CO :	0.11174
+Init CO2 :	0.08492
+Init CH2O :	0.04577
+Init CH3OH :	0.07144
+Init C2H4 :	0.02062
+Init C2H5OH :	0.00516
+Init CH3CHO :	0.01475
+Init C2H2O2 :	0.01531
+Init CH3COCH3 :	0.05985
+Init HAA-C2H4O2 :	0.05790
+Init HMFU-C6H6O3 :	0.04158
+Init LVG-C6H10O5 :	0.13877
+Init COUMARYL-C9H10O2 :	0.00891
+Init A1OH-C6H6O :	0.00414
+Init HCOOH :	0.00810
+Init C11H12O4 :	0.05306
+Init XYLOSE-C5H8O4 :	0.04272
